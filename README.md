@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e860f21a-61e2-46fa-a32c-e756ed9ff56a
+
 # Smart Document Generation Agent
 
 An AI-powered document generation dashboard where a Claude agent assembles and delivers documents automatically using real tool calling.
